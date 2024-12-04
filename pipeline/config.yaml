@@ -1,0 +1,9 @@
+corpus:
+  example: "https://raw.githubusercontent.com/githila/data/master/text.csv"
+
+output:
+  path_clean_corpus_csv: "files/data/output/corpus_clean.csv"
+  path_y_train_npy: "files/data/output/y_train.npy"
+  path_y_test_npy: "files/data/output/y_test.npy"
+  path_X_train_vec_npz: "files/data/output/X_train_vec.npz"
+  path_X_test_vec_npz: "files/data/output/X_test_vec.npz"
