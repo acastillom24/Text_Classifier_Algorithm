@@ -15,12 +15,15 @@
 ## Resultados obtenidos
 
 - Con el algoritmo Naive Bayes, se obtuvo un accuracy de 83%.
+
     ![Naive Bayes](img/naive_bayes.png)
 
 - Con el algoritmo de maquinas de soporte vectorial, se obtuvo un accuracy de 84.73%.
+
     ![SVM](img/svm.png)
 
 - Con el algortimo de Perceptron Multicapa, se obtuvo un accuracy de 81.17%
+
     ![MLP](img/mlp.png)
 
 ## Referencias
